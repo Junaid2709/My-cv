@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+h2{color: cornflowerblue;
+text-align: center;
+}
+p{
+    color: blueviolet;
+    font-size: x-large;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: chocolate;
+    border-width:5px ;
+    width: 5%;
+}
+a{
+    color: blueviolet;
+}
+ul{
+    color: blueviolet;
+    font-size: x-large;
+}
